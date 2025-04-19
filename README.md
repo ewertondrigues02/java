@@ -1,4 +1,5 @@
 [![Classe-String](https://img.shields.io/badge/Classe-String-blue?style=flat)](#classe-string-em-java)
+[![Classe String](https://img.shields.io/badge/java.lang-Fundamental-007acc?style=flat)](#classe-string-em-java)
 
 
 📦 [Classe Object](#classe-string-em-java) - Em Breve

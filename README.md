@@ -1,7 +1,7 @@
 
 [![Classe String](https://img.shields.io/badge/Seção-Introdução-007acc?style=flat&logoColor=white)](#classe-string-em-java)
 [![Classe String](https://badgen.net/badge)](#classe-string-em-java)
-[![Classe String](https://badgen.net/badge/-/007acc)](#classe-string-em-java)
+[![Classe String](https://badgen.net/badge/Uso/-/007acc)](#classe-string-em-java)
 
 
 📦 [Classe Object](#classe-string-em-java) - Em Breve

@@ -93,7 +93,8 @@ Prefira o uso de StringBuilder em loops.
 
 Sempre use equals() ao comparar strings, nunca ==.
 
-##📎 Links Úteis
+## 📎 Links Úteis
+
 📖 [Documentação oficial da classe String](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html)
 
 ## 📄 [Guia sobre Strings da Oracle]

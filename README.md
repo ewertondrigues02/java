@@ -104,10 +104,8 @@ Sempre use equals() ao comparar strings, nunca ==.
 ## 📚 Comparação entre String, StringBuilder e StringBuffer
 
 
-# Diagrama da Classe **String**
-
+# Diagrama da Classe *String*
 ---
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1c5eb3ac-291c-4882-a1cd-586966f5e12d" height="400" width="700"/>
 </p>

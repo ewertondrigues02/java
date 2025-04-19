@@ -67,7 +67,7 @@ Para melhor desempenho e simplicidade, prefira sempre literals.
 
 `trim()` -	Remove espaços no início e fim.
 
-👉 [Veja a documentação oficial completa dos métodos](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html#method-summary).
+##### 👉 [Veja a documentação oficial completa dos métodos](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html#method-summary).
 
 ## ⚖️ Comparação de Strings
 

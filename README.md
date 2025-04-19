@@ -16,7 +16,7 @@
 
 📦 [Classe Exception](#classe-string-em-java) - Em Breve
 
- 📌 # Classe String em Java
+  # Classe String em Java
 A classe String é uma das mais fundamentais da linguagem Java, utilizada para representar sequências de caracteres (textos). Ela pertence ao pacote java.lang e é imutável, o que significa que seu conteúdo não pode ser alterado após a criação do objeto.
 
 ## 🚀 Características Principais

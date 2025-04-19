@@ -1,11 +1,19 @@
 [Classe String](#classe-string-em-java)
+
 [Classe Object](#classe-string-em-java) - Em Breve
+
 [Classe StringBuilder](#classe-string-em-java) - Em Breve
+
 [Classe StringBuffer](#classe-string-em-java) - Em Breve
+
 [Classe Math](#classe-string-em-java) - Em Breve
+
 [Classe Integer](#classe-string-em-java) - Em Breve
+
 [Classe System](#classe-string-em-java) - Em Breve
+
 [Classe Runtime](#classe-string-em-java) - Em Breve
+
 [Classe Exception](#classe-string-em-java) - Em Breve
 
 # 📌 Classe String em Java

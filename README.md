@@ -24,7 +24,9 @@ String texto2 = new String("Java");
 Para melhor desempenho e simplicidade, prefira sempre literals.
 
 ## 📚 Principais Métodos
- Método	Descrição
+
+### Método	Descrição:
+ 
 **length()** -	Retorna o número de caracteres
 **charAt(int index)** - 	Retorna o caractere no índice especificado
 **substring(int beginIndex)** - Retorna uma nova String a partir de um índice
@@ -41,17 +43,17 @@ Para melhor desempenho e simplicidade, prefira sempre literals.
 
 ## ⚖️ Comparação de Strings
 
- ==  compara referência (endereços de memória).
+ `==`  compara referência (endereços de memória).
 
-equals() compara conteúdo textual.
+`equals()` compara conteúdo textual.
 
-compareTo() compara lexicograficamente e retorna:
+`compareTo()` compara lexicograficamente e retorna:
 
-0 se forem iguais,
+`0` se forem iguais,
 
-valor negativo se a String for menor,
+  valor negativo se a String for menor,
 
-valor positivo se for maior.
+  valor positivo se for maior.
 
 ```
 String a = "Java";

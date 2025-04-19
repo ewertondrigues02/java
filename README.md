@@ -30,23 +30,23 @@ Para melhor desempenho e simplicidade, prefira sempre literals.
 **length()** -	Retorna o número de caracteres
 **charAt(int index)** - 	Retorna o caractere no índice especificado.
 
-`**substring(int beginIndex)**` - Retorna uma nova String a partir de um índice.
+`substring(int beginIndex)` - Retorna uma nova String a partir de um índice.
 
-`**equals(Object obj)**` - Compara o conteúdo da String com outro objeto.
+`equals(Object obj)` - Compara o conteúdo da String com outro objeto.
 
-`**equalsIgnoreCase(String)**` -	Compara ignorando maiúsculas e minúsculas.
+`equalsIgnoreCase(String)` -	Compara ignorando maiúsculas e minúsculas.
 
-`**contains(CharSequence)**` -	Verifica se uma sequência está contida na String.
+`contains(CharSequence)` -	Verifica se uma sequência está contida na String.
 
-`**replace(CharSequence, ...)**` -	Substitui partes da String.
+`replace(CharSequence, ...)` -	Substitui partes da String.
 
-`**split(String regex)**` -	Divide a String com base em uma expressão regular.
+`split(String regex)` -	Divide a String com base em uma expressão regular.
 
-`**toUpperCase()**` -	Converte para letras maiúsculas.
+`toUpperCase()` -	Converte para letras maiúsculas.
 
-`**toLowerCase()**` -	Converte para letras minúsculas.
+`toLowerCase()` -	Converte para letras minúsculas.
 
-`**trim()**` -	Remove espaços no início e fim.
+`trim()` -	Remove espaços no início e fim.
 
 👉 [Veja a documentação oficial completa dos métodos](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html#method-summary).
 

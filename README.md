@@ -114,9 +114,9 @@ Sempre use equals() ao comparar strings, nunca ==.
 
 ## 📎 Links Úteis
 
-📖 [Documentação oficial da classe String](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html)
+## 📄 [Documentação oficial da classe String](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html)
 
-## 📄 [Guia sobre Strings da Oracle]
+## 📄 Guia sobre Strings da Oracle
 
 ## 🧵 [Java String Pool](https://docs.oracle.com/javase/tutorial/java/data/strings.html)
 
